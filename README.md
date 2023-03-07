@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+je moet 2 package dowloaden:
+
+
+https://pub.dev/packages/carousel_slider/install
+https://pub.dev/packages/google_nav_bar/install
