@@ -87,7 +87,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '    250 gr pasta',
+                        '    125 gr zalm',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -98,7 +98,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr Italiaanse (roerbak)groente',
+                        '25 gr sushi rijst',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -109,7 +109,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '1 ui',
+                        '1 avocado',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -120,7 +120,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        "2 tenen knoflook",
+                        "75 gr peen julienne",
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -131,7 +131,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomatenblokjes',
+                        '100 gr zeewiersalade',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -153,7 +153,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '8 zongedroogde tomaatjes',
+                        '100 gr edamame bonen',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -210,7 +210,7 @@ class woensdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Haal het velletje van de chorizo en snijd de worst daarna in blokjes.',
+                        'Begin met het koken van de rijst. Doe dit volgens de aanwijzingen op de verpakking. Laat daarna de rijst afkoelen.  ',
                         style: TextStyle(
                           color: Colors.white,
                         ),

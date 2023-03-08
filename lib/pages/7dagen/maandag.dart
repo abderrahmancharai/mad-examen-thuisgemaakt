@@ -60,7 +60,7 @@ class maandag extends StatelessWidget {
                     horizontal: 20,
                   ),
                   child: Text(
-                    "Brandweer pasta – Zoals vele van jullie misschien wel weten, werkt Jorrit al een tijdje bij de brandweer. Tijdens de dienst, die bijna altijd 24 uur duurt, moet er uiteraard gegeten worden. Een van de gerechtjes die Jorrit regelmatig maakt, is dit pastagerecht met tomatensaus, groente en chorizo.",
+                    "Griekse wraps met kip – Geen zin om lang in de keuken te staan? Maak eens Griekse wraps met kip, tomaat, sla, rode ui en (zelfgemaakte) tzatziki. Wil je liever vegetarisch eten? Vervang de kipstukjes dan door vegetarische gyros reepjes. Serveer eventueel wat gebakken aardappeltjes, frietjes of tomatenrijst bij de wraps",
                     style: TextStyle(
                       color: Color.fromRGBO(255, 255, 255, 0.612),
                       fontSize: 15,
@@ -98,7 +98,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr Italiaanse (roerbak)groente',
+                        '1 tl oregano',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -109,7 +109,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '1 ui',
+                        '2 tl gyros kruiden',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -131,7 +131,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomatenblokjes',
+                        '5 wraps',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -142,7 +142,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomato frito',
+                        '1-2 paprika',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -153,7 +153,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '8 zongedroogde tomaatjes',
+                        'tzatziki zelfgemaakte',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -175,7 +175,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '2 tl oregano',
+                        '200 gr (ijsberg)sla  ',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -186,7 +186,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'snuf peper',
+                        'ook lekker met feta',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -206,7 +206,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Haal het velletje van de chorizo en snijd de worst daarna in blokjes.',
+                        'Begin met het maken van de tzatziki en zet de tzatziki in de koelkast totdat je gaat eten.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -217,7 +217,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Bak de blokjes chorizo in een (hapjes)pan zonder olie. Er komt genoeg vet vrij tijdens het bakken.',
+                        'snijd de kip in stukjes en breng de kip op smaak met de oregano en gyros kruiden.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -228,7 +228,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Snipper ondertussen de ui en snijd de knoflook en zongedroogde tomaatjes fijn.',
+                        'Snijd de rode ui in halve ringen (heel dun).',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -239,7 +239,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Haal na ongeveer 5 minuten de chorizo uit de pan.',
+                        'Snijd de paprika in reepjes.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -261,7 +261,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Voeg na ongeveer 4-5 minuten de ui, knoflook, zongedroogde tomaatjes en groente toe. Bak alles even 5-10 minuten aan.',
+                        'Snijd de tomaten in partjes/stukjes.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -272,7 +272,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Doe de kruiden, de tomatenblokjes, de chorizo en tomato frito erbij, zet het vuur zacht en laat de saus nu ongeveer een uurtje heel zachtjes pruttelen.',
+                        'Giet een scheutje olie in een pan en bak de kipstukjes in circa 10 minuten gaar.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -283,7 +283,7 @@ class maandag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Kook ondertussen wat pasta volgens de instructies op de verpakking en serveer met de saus en eventueel wat geraspte kaas.',
+                        'Doe wat kipstukjes, sla, tomaat, paprika, rode ui en een lekkere schep tzatziki op een wrap. Rol de wrap op en maak op dezelfde manier de rest van de wraps.',
                         style: TextStyle(
                           color: Colors.white,
                         ),

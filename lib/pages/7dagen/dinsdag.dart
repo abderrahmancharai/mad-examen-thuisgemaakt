@@ -87,7 +87,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '    250 gr pasta',
+                        '    1 zalmmoot',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -98,7 +98,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr Italiaanse (roerbak)groente',
+                        '3 el sojasaus',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -109,7 +109,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '1 ui',
+                        '1 tl honing',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -120,7 +120,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        "2 tenen knoflook",
+                        "1 teen knoflook",
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -131,7 +131,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomatenblokjes',
+                        '200 gr sushi rijst',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -142,7 +142,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomato frito',
+                        '1,5 el rijstazijn',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -153,7 +153,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '8 zongedroogde tomaatjes',
+                        '1 tl suiker',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -175,7 +175,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '2 tl oregano',
+                        '1 avocado',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -210,7 +210,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Haal het velletje van de chorizo en snijd de worst daarna in blokjes.',
+                        'Begin met het marineren van de zalm. Meng in een bakje de sojasaus, honing en knoflook door elkaar. Haal de zalm door de marinade en zet het bakje in de koelkast.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -221,7 +221,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Bak de blokjes chorizo in een (hapjes)pan zonder olie. Er komt genoeg vet vrij tijdens het bakken.',
+                        'Ondertussen bereid je de sushi rijst. Heb je weinig tijd? Gebruik dan pandanrijst. Kook de pandanrijst volgens de instructies van de verpakking en voeg na het koken de rijstazijn en suiker toe en meng door elkaar.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -232,7 +232,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Snipper ondertussen de ui en snijd de knoflook en zongedroogde tomaatjes fijn.',
+                        'Snijd de avocado in stukjes of plakjes. Giet eventueel een beetje citroensap er overheen zodat de avocado niet bruin wordt.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -243,7 +243,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Haal na ongeveer 5 minuten de chorizo uit de pan.',
+                        'Snijd de komkommer in stukjes.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -254,7 +254,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Doe het gehakt in de pan en bak rul in het vet van de chorizo',
+                        'Giet een scheutje olie in een pan. Bak de zalm in circa 3-4 minuten per kant mooi bruin.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -265,7 +265,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Voeg na ongeveer 4-5 minuten de ui, knoflook, zongedroogde tomaatjes en groente toe. Bak alles even 5-10 minuten aan.',
+                        'Haal de zalmmoot uit de pan en trek uit elkaar met twee vorken.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -276,7 +276,7 @@ class dinsdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Doe de kruiden, de tomatenblokjes, de chorizo en tomato frito erbij, zet het vuur zacht en laat de saus nu ongeveer een uurtje heel zachtjes pruttelen.',
+                        'verdeel de rijst over twee diepe borden. Verdeel de komkommer, avocado, zalm en peen julienne in groepjes over de rijst.',
                         style: TextStyle(
                           color: Colors.white,
                         ),

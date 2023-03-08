@@ -98,7 +98,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr Italiaanse (roerbak)groente',
+                        '1 rol bladerdeeg',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -109,7 +109,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '1 ui',
+                        '2 paprika',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -120,7 +120,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        "2 tenen knoflook",
+                        "1  ui",
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -131,7 +131,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomatenblokjes',
+                        '2 tenen knoflook',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -142,7 +142,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '400 gr tomato frito',
+                        '3 kleine eieren',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -153,7 +153,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '8 zongedroogde tomaatjes',
+                        '600 gr tomatenblokjes',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -164,7 +164,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '2 tl rozemarijn',
+                        '2 el tomatenpuree',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -175,7 +175,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        '2 tl oregano',
+                        '2 tl paprikapoeder',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -186,7 +186,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'snuf peper',
+                        '1 tl komijn',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -210,7 +210,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Haal het velletje van de chorizo en snijd de worst daarna in blokjes.',
+                        'Snipper de ui, snijd de knoflook fijn en de paprika in blokjes.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -221,7 +221,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Bak de blokjes chorizo in een (hapjes)pan zonder olie. Er komt genoeg vet vrij tijdens het bakken.',
+                        'Doe een scheutje olie in een hapjespan en fruit de ui aan en bak ondertussen de paprika mee.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -232,7 +232,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Snipper ondertussen de ui en snijd de knoflook en zongedroogde tomaatjes fijn.',
+                        'Doe na 5 minuten de knoflook en tomatenpuree erbij en bak 1-2 minuten mee.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -254,7 +254,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Doe het gehakt in de pan en bak rul in het vet van de chorizo',
+                        'Doe de tomatenblokjes en de kruiden in de pan en laat de saus zachtjes pruttelen totdat iets is ingedikt.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
@@ -265,7 +265,7 @@ class donderdag extends StatelessWidget {
                         color: Colors.white,
                       ),
                       title: Text(
-                        'Voeg na ongeveer 4-5 minuten de ui, knoflook, zongedroogde tomaatjes en groente toe. Bak alles even 5-10 minuten aan.',
+                        'Verwarm de oven voor op 200 graden.',
                         style: TextStyle(
                           color: Colors.white,
                         ),
